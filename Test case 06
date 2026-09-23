@@ -1,1 +1,20 @@
+test case 1:
+Input
+s =
+"catsanddog"
+wordDict =
+["cat","cats","and","sand","dog"]
+Output
+["cat sand dog","cats and dog"]
+Expected
+["cats and dog","cat sand dog"]
 
+test  case 2:
+s =
+"pineapplepenapple"
+wordDict =
+["apple","pen","applepen","pine","pineapple"]
+Output
+["pine apple pen apple","pine applepen apple","pineapple pen apple"]
+Expected
+["pine apple pen apple","pineapple pen apple","pine applepen apple"]
