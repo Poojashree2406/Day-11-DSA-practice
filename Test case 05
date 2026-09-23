@@ -1,1 +1,21 @@
+test case 1:
+Input
+board =
+[["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]]
+word =
+"ABCCED"
+Output
+true
+Expected
+true
 
+test case  2:
+Input
+board =
+[["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]]
+word =
+"SEE"
+Output
+true
+Expected
+true
